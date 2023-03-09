@@ -1,5 +1,4 @@
-# Pix2PixCLI
-Run Instruct-Pix2Pix from the CLI
+# Instruct Pix2Pix Python Script
 
 ```
 python3 main.py
